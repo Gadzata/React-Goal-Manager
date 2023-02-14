@@ -2,4 +2,4 @@
 
 Проект React Goal Manager
 
-Проект во React.js со основни CRUD функционалности.
+Проект во React.js.
